@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-number{
+    background-color: lightpink;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+#element-two{
+    color: blue;
+    font-size: 36px;
+}
+
+#element-three{
+    font-size: 24px;
+}
+
+#element-four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
